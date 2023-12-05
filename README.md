@@ -1,2 +1,3 @@
-# free-soical-site
-# Just Download the Files and configure the names and soicals stuff
+# Free-soical-site
+# Just Download the Files
+# Configure the names and soicals stuff
